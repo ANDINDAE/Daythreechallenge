@@ -1,7 +1,5 @@
 import unittest
 from day.missingnumber import missing_number_list
-
-
 class test_missing(unittest.TestCase):
 
     def test_missingNumber(self):
