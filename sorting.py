@@ -1,6 +1,5 @@
 def list_sort(lista):
-
-    even = []
+  even = []
     odd = []
     characters = []
     mydict = dict()
