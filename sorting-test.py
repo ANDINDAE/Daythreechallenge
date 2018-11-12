@@ -1,7 +1,3 @@
-import unittest
-from day.list_sorting import list_sort
-
-
 class listsortTest(unittest.TestCase):
 
     def test_integer_input(self):
