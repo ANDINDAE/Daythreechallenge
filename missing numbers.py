@@ -1,6 +1,5 @@
 def missing_number_list(list1):
-
-    missing_values_list = list()
+ missing_values_list = list()
     sorted_list = sorted(list1)
     upper = sorted_list[-1]
     lower = sorted_list[0]
