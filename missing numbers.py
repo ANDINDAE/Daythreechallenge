@@ -17,4 +17,3 @@ def missing_number_list(list1):
 if __name__ == '__main__':
     list1 = [1, 2, 3, 5, 6, 7, 9, 10, 11]
     print(missing_number_list(list1))
-© 2018 GitHub, Inc.
